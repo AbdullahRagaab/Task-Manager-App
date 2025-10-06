@@ -1,0 +1,81 @@
+# =========================
+# Python / Django
+# =========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+
+# Pytest / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+*.mo
+
+# IDE / misc
+*.swp
+*~
+.vscode/
+.idea/
+.DS_Store
+
+# =========================
+# Node / React
+# =========================
+
+# dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# production
+build/
+dist/
+
+# misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# testing
+coverage/
+*.lcov
+
+# IDE
+.vscode/
+.idea/
+
+# =========================
+# Common
+# =========================
+.env
+*.bak
+*.tmp
