@@ -97,23 +97,19 @@ Supports user authentication, role-based access, CRUD operations for tasks, and 
 
 ---
 
-## 7. Users & Tasks in MockAPI
-
-* **Show Users**
-
-```ts
-const { data: users } = useGetUsers(); 
-console.log(users);
 
 
+<img width="1335" height="629" alt="Image" src="https://github.com/user-attachments/assets/e4395ef0-ce51-43b2-bc26-d4cffa394e53" />
+<img width="1323" height="628" alt="Image" src="https://github.com/user-attachments/assets/c4d1e375-78bd-4b41-b283-c812c9867ab0" />
+<img width="1329" height="639" alt="Image" src="https://github.com/user-attachments/assets/b69a8440-5d04-4464-ac00-ff819be32bf8" />
+<img width="1360" height="642" alt="Image" src="https://github.com/user-attachments/assets/fc820117-5633-451e-bbea-eb9e12c6c3eb" />
 
----
-<img width="1323" height="628" alt="Image" src="https://github.com/user-attachments/assets/2f2e66cb-2469-4f23-8194-ef201b3c7502" />
-<img width="1335" height="629" alt="Image" src="https://github.com/user-attachments/assets/9a9d5e03-333d-45c7-a717-223588559fff" />
-<img width="1333" height="631" alt="Image" src="https://github.com/user-attachments/assets/a9b8f940-66cf-4818-ad71-207c41b0218f" />
-<img width="1360" height="642" alt="Image" src="https://github.com/user-attachments/assets/da30b522-cd0d-4307-b720-a9d139c29166" />
-<img width="1361" height="647" alt="Image" src="https://github.com/user-attachments/assets/89364200-ffe8-4c8e-87fc-4c467ebaf823" />
-<img width="1363" height="649" alt="Image" src="https://github.com/user-attachments/assets/b4f8b787-8155-44a8-a4fa-496da0f0ce14" />
-<img width="1329" height="639" alt="Image" src="https://github.com/user-attachments/assets/e79fab96-f8d9-4012-857e-934ca5917722" />
-<img width="1312" height="610" alt="Image" src="https://github.com/user-attachments/assets/71175080-2526-4a1e-8e02-100a6a3e9b26" />
-<img width="1329" height="632" alt="Image" src="https://github.com/user-attachments/assets/73cada49-fecc-45f3-8362-018369de489b" />
+<img width="1361" height="647" alt="Image" src="https://github.com/user-attachments/assets/ec1b20b1-07ca-4635-9ffb-233d34048397" />
+
+<img width="1363" height="649" alt="Image" src="https://github.com/user-attachments/assets/83782d51-1358-4c67-b105-96fdd3c46186" />
+
+<img width="1333" height="631" alt="Image" src="https://github.com/user-attachments/assets/b2ce0ecf-931a-45f3-bfff-bcda6134f01c" />
+
+<img width="1329" height="632" alt="Image" src="https://github.com/user-attachments/assets/0c92c287-84a4-419a-9d48-3c0bb7833d2e" />
+
+<img width="1312" height="610" alt="Image" src="https://github.com/user-attachments/assets/bd24196e-3aa8-4731-9819-8f061dcb4f6d" />
