@@ -91,11 +91,11 @@ export default function SignupPage() {
                 className="w-full px-3 py-2 rounded-xl border-2 border-gray-200 focus:border-blue-500 focus:ring-2 focus:ring-blue-100 transition-all outline-none text-sm"
                 placeholder={
                   field === "name"
-                    ? "John Doe"
+                    ? "Abdullah Ragab"
                     : field === "username"
-                    ? "johndoe"
+                    ? "abdullahragab"
                     : field === "email"
-                    ? "john@example.com"
+                    ? "abdullah@example.com"
                     : "Create a password"
                 }
               />
